@@ -23,6 +23,9 @@ public class User implements Serializable {
 
     @Attribute(name = "e")
     private String email;
+    
+    @Attribute(name = "p")
+    private String password;
 
     @Attribute(name = "fN")
     private String firstName;
@@ -132,5 +135,13 @@ public class User implements Serializable {
 
     public String getUserName() {
         return lastName + " " + firstName;
+    }
+
+    public String getPassword() {
+        return password;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
     }
 }
