@@ -9,6 +9,7 @@ import org.slim3.controller.Navigation;
 
 import sample.chat.model.User;
 import sample.chat.service.UserService;
+import sample.chat.utils.Encrypter;
 
 public class CreateSampleUserController extends Controller {
 
@@ -24,6 +25,7 @@ public class CreateSampleUserController extends Controller {
                 map.put("email", email);
                 map.put("firstName", "sample" + i);
                 map.put("lastName", "user");
+                map.put("password", Encrypter.getHash(""));
                 UserService.createUser(map);
             }
         }

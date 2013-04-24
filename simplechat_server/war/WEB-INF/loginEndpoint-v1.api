@@ -55,10 +55,10 @@
         "id" : "LoginResultV1Dto",
         "type" : "object",
         "properties" : {
-          "result" : {
+          "userId" : {
             "type" : "string"
           },
-          "userId" : {
+          "result" : {
             "type" : "string"
           },
           "userName" : {
