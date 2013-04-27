@@ -1,2 +1,4 @@
-/.settings
-/.externalToolBuilders
+.settings/
+
+.externalToolBuilders
+/
