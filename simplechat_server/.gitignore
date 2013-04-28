@@ -1,4 +1,3 @@
 .settings/
-
-.externalToolBuilders
-/
+.externalToolBuilders/
+endpoint-libs/

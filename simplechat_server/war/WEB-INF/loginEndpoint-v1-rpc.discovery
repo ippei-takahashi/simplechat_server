@@ -1,6 +1,6 @@
 {
  "kind": "discovery#rpcDescription",
- "etag": "\"pF6h7OGB9E5arBzxcIiEhC2eyK8/nvBZiEw7-CQ-DveowLbI81OiFFQ\"",
+ "etag": "\"wez405KDp3av28PdV0g9gQEA_Kk/VCLEQSMRs2nvn1WUZpI2F7vhOM0\"",
  "discoveryVersion": "v1",
  "id": "loginEndpoint:v1",
  "name": "loginEndpoint",
@@ -13,8 +13,8 @@
   "x32": "http://www.google.com/images/icons/product/search-32.gif"
  },
  "protocol": "rpc",
- "rootUrl": "https://myapp.appspot.com/_ah/api/",
- "rpcUrl": "https://myapp.appspot.com/_ah/api/rpc",
+ "rootUrl": "https://titechsimchat.appspot.com/_ah/api/",
+ "rpcUrl": "https://titechsimchat.appspot.com/_ah/api/rpc",
  "rpcPath": "/_ah/api/rpc",
  "parameters": {
   "alt": {

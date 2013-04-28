@@ -25,7 +25,7 @@ public class CreateSampleUserController extends Controller {
                 map.put("email", email);
                 map.put("firstName", "sample" + i);
                 map.put("lastName", "user");
-                map.put("password", Encrypter.getHash(""));
+                map.put("password", Encrypter.getHash("test"));
                 UserService.createUser(map);
             }
         }

@@ -1,6 +1,6 @@
 {
  "kind": "discovery#restDescription",
- "etag": "\"pF6h7OGB9E5arBzxcIiEhC2eyK8/nvBZiEw7-CQ-DveowLbI81OiFFQ\"",
+ "etag": "\"wez405KDp3av28PdV0g9gQEA_Kk/VCLEQSMRs2nvn1WUZpI2F7vhOM0\"",
  "discoveryVersion": "v1",
  "id": "loginEndpoint:v1",
  "name": "loginEndpoint",
@@ -13,9 +13,9 @@
   "x32": "http://www.google.com/images/icons/product/search-32.gif"
  },
  "protocol": "rest",
- "baseUrl": "https://myapp.appspot.com/_ah/api/loginEndpoint/v1/login/",
+ "baseUrl": "https://titechsimchat.appspot.com/_ah/api/loginEndpoint/v1/login/",
  "basePath": "/_ah/api/loginEndpoint/v1/login/",
- "rootUrl": "https://myapp.appspot.com/_ah/api/",
+ "rootUrl": "https://titechsimchat.appspot.com/_ah/api/",
  "servicePath": "loginEndpoint/v1/login/",
  "batchPath": "batch",
  "parameters": {
